@@ -3,6 +3,19 @@
 ## 🎯 Visión General
 Sistema de gestión de talento empresarial que implementa las mejores prácticas de arquitectura limpia y Domain-Driven Design (DDD).
 
+## 📑 Documentación Complementaria (Índice)
+
+| Documento | Descripción | Uso e Importancia |
+|-----------|-------------|-------------------|
+| [PRD - Product Requirements Document](./PRD.md) | Documento de requerimientos del producto | **#Referencia** - Define los requerimientos funcionales y no funcionales del sistema, sirviendo como guía principal para el desarrollo. |
+| [Curso: Implementación de BD](./SUMMARY_CURSO.md) | Guía completa de implementación de BD | **#Capacitación** - Material educativo completo para aprender el proceso de implementación de bases de datos escalables para sistemas ATS. |
+| [Curso: Debugging y Solución de Problemas](./DEBUGGING_GUIDE.md) | Guía de resolución de problemas | **#Soporte** - Referencia esencial para diagnosticar y resolver problemas comunes en el sistema, reduciendo el tiempo de inactividad. |
+| [Proceso de Implementación](./PROCESO_IMPLEMENTACION.md) | Documentación del proceso de implementación | **#Metodología** - Describe el flujo de trabajo seguido para implementar el sistema, útil para nuevos desarrolladores y auditorías. |
+| [Verificación con PgAdmin](./PGADMIN_VERIFICACION.md) | Validación de la estructura de BD | **#QA** - Demuestra la correcta implementación de la base de datos, sirviendo como evidencia de calidad. |
+| [Guía de Actualización de BD](./DB_UPGRADE_GUIDE.md) | Procedimientos para actualizar la BD | **#Operaciones** - Instrucciones críticas para realizar actualizaciones seguras en la base de datos en producción. |
+| [ERD Original](./ERD.md) | Diagrama Entidad-Relación inicial | **#Diseño** - Muestra el diseño conceptual original, útil para entender la evolución del sistema. |
+| [ERD Actualizado](./ERD_ACTUALIZADO.md) | Diagrama Entidad-Relación actual | **#Arquitectura** - Refleja la estructura actual de la base de datos, fundamental para el mantenimiento y desarrollo. |
+
 ## 🏗️ Arquitectura
 
 ```
@@ -156,4 +169,4 @@ Para más detalles sobre la verificación, consulte el documento [Verificación 
 
 ## 📄 Licencia
 
-MIT © [2024] LTI-ATS
+MIT © [2025] LTI-ATS
